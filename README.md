@@ -1,5 +1,5 @@
 # Stone Scroll Blade
-Welcome to Stone Scroll Blade! 🪨 📜 🗡️ A medieval-inspirated interactive game that invites users to engage in a twist on Rock, Paper, Scissors using HTML, CSS, and JavaScript. Users play against the computer in timeless gameplay with fantasy, skill, luck and strategy. The goal is to create an engaging and accessible web-based game while celebrating the fun of medieval lore and iconography. Dive in, play a few rounds, and let the best combatant win!
+Welcome to **Stone Scroll Blade**! 🪨 📜 🗡️ A medieval-inspirated interactive game that invites users to engage in a twist on Rock, Paper, Scissors using HTML, CSS, and JavaScript. Users play against the computer in timeless gameplay with fantasy, skill, luck and strategy. The goal is to create an engaging and accessible web-based game while celebrating the fun of medieval lore and iconography. Dive in, play a few rounds, and let the best combatant win!
 
 ## Features
 **Medieval Design:** Responsive layout with interactive hover effects.
